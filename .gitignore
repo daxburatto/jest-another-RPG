@@ -1,0 +1,4 @@
+package.json
+package-ignore.json
+.DS_Store
+node_modules
